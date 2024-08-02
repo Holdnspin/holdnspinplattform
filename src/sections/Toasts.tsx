@@ -24,7 +24,7 @@ const StyledToasts = styled.div`
 `
 
 const StackedToast = styled.div`
-  background: #e8e8e8e3;
+  background: #038c26;
   width: 100%;
   border-radius: 10px;
   height: 60px;
@@ -42,7 +42,7 @@ const StyledToast = styled.div`
     0% { opacity: 0; --fade-in: 100%; }
     100% { opacity: 1; --fade-in: 0%; }
   }
-  background: #fffffff0;
+  background: #038c26;
   color: black;
   border-radius: 10px;
   display: flex;
