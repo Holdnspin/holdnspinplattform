@@ -17,9 +17,9 @@
   --gamba-ui-button-main-color: white;
   --gamba-ui-button-main-background-hover: #9564ff;
 
-  --gamba-ui-input-background: #0e0e16;
-  --gamba-ui-input-color: #ffffff;
-  --gamba-ui-input-background-hover: #11111d;
+  --gamba-ui-input-background: #038c26;
+  --gamba-ui-input-color: #038c26;
+  --gamba-ui-input-background-hover: #038c26;
 }
 
 body, input, button, textarea, pre {
