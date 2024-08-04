@@ -5,12 +5,12 @@
 :root {
   --background-color: #2f8c03;
   --text-color: #ffffff;
-  --gamba-ui-primary-color: #9564ff;
+  --gamba-ui-primary-color: #ffffff;
 
   --gamba-ui-border-radius: 10px;
 
   --gamba-ui-button-default-background: #0e0e16;
-  --gamba-ui-button-default-background-hover: #038c26;
+  --gamba-ui-button-default-background-hover: #ffffff;
   --gamba-ui-button-default-color: white;
 
   --gamba-ui-button-main-background: #038c26;
