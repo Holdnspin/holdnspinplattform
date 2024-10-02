@@ -104,12 +104,12 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to Holdnspin.us 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana.
+          A fair, simple and decentralized casino on Solana. Contact us for more Infos. Basic Version as you see here 250€ and 24 Hours delivery Time. 
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('info@stormbit.co', '_blank')}>
-          👨‍💻 Support
+        <button onClick={() => window.open('https://t.me/dominik_6618', 'https://t.me/dominik_6618')}>
+          👨‍💻 Telegram Sales Team
         </button>
         <button onClick={() => window.open('https://t.me/holdnspin')}>
           🚀 Telegram
