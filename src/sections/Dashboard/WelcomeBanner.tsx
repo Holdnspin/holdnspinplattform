@@ -104,18 +104,18 @@ export function WelcomeBanner() {
       <div>
         <h1>Welcome to Holdnspin.us 👋</h1>
         <p>
-          A fair, simple and decentralized casino on Solana. Contact us for more Infos. What you see here is the Basic version, it cost 250$ and is full ready in 4 Hours. We sell exlusive with full source Code. Also Possible with Slots or costumized Plattforms. Write our Sales Team or order before 17:00 UTC in our Bot and become your delivery Today 
+          A fair, simple and decentralized casino on Solana. 
         </p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://t.me/dominik_6618', 'https://t.me/dominik_6618')}>
-          👨‍💻 Telegram Sales Team
+        <button onClick={() => window.open('https://gamblesoft.io', 'https://t.me/dominik_6618')}>
+          👨‍💻 Create your Own
         </button>
-        <button onClick={() => window.open('https://t.me/Stormbitdoobot')}>
-          🚀 Telegram Order BOT and Support
+        <button onClick={() => window.open('https://t.me/')}>
+          🚀 Telegram Group
         </button>
         <button onClick={() => window.open('https://discord.gg/2xYm2QHwX7')}>
-          💬 Discord Example button
+          💬 Discord
         </button>
       </Buttons>
     </Welcome>
