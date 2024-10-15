@@ -79,7 +79,7 @@ export const TOS_HTML = `
   <p><b>6. Licensing Disclaimer:</b> Not a licensed casino; for simulation only.</p>
   <p><b>7. Fair Play:</b> Games are conducted fairly and transparently.</p>
   <p><b>8. Data Privacy:</b> Your privacy is important to us.</p>
-  <p><b>9. Responsible Gaming:</b> Play responsibly; seek help if needed.</p>
+  <p><b>9. Create your own:</b> www.gamblesoft.io</p>
 `
 
 /**
